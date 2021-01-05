@@ -1,4 +1,3 @@
-# The Idea
+# LuxSpaces - Han
 
-Basic boilerplate to get started slicing so you don't need to think about configuration.
-
+Porject Kelas FEHO di BuildWithAngga
